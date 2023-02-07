@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xr3KTYgJ1R08LMGBN6ScUSytK0Q8AbW441NT07S0V7ZRv/irYfC61F5mMG0zYFYXVFh0WpXQshXYuUqZ4L/jSQ==",
+  "success": true,
+  "projectFilePath": "C:\\REPOS\\TrueCoders\\csharp\\csharp_MethodOverloading\\csharp_MethodOverloading.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sitefinity.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
